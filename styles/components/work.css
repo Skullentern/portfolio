@@ -43,6 +43,11 @@
     background-color: rgba(79, 70, 229, 0.3);
 
   }
+  
+  .work__project:not(:last-child){
+    margin-bottom: 5rem;
+
+  }
 
   .work__project-description1{
     font-size: var(--size-sm);
